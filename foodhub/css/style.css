@@ -1,0 +1,99 @@
+
+.box-div{
+    width: 400px;
+    margin-top: 40px;
+    border-style: dashed;
+    border-width: 1px;
+    padding: 20px;
+
+}
+@media (max-width: 768px){
+    .box-div{
+        width: 300px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+.bg-custom{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bolder ;
+}
+.card img{
+    height: 320px;
+    object-fit: cover;
+}
+.heading{
+    margin-top:20px;
+    margin-bottom: 5px;
+}
+
+.icon-img{
+    width: 250px;
+    height: 200px;
+
+}
+.box-div{
+    width: 400px;
+    margin-top: 40px;
+    border-style: dashed;
+    border-width: 1px;
+    padding: 20px;
+}
+
+.card img{
+    height: 200px;
+    object-fit: cover;
+}
+
+.heading{
+    margin-top: 20px;
+}
+.nav-color{
+    background-color: #fff;
+}
+.brand{
+    color: white;
+}
+
+
+.box{
+    padding: 50px;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    background: #dbdfe5;
+}
+.footer{
+    background-color:green;
+   
+}
+.footer-items{
+    color: #ffffff;
+    text-decoration: none;
+    display: inline-block;
+    
+
+}
+
+.card{
+    margin-top: 50px;
+}
+
+.carousel-item{
+    height: 500px;
+    object-fit: contain;
+    
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+background-color: black;
+border-radius: 50%;
+}
+
+.carousel-indicators li{
+    background-color: black;
+
+}

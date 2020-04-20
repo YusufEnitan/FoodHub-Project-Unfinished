@@ -1,0 +1,46 @@
+body{
+  
+    margin-right: 150px;
+    margin-left: 150px;  
+}
+ 
+ .row{
+     display: block;
+ }
+
+.foods{
+   
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.beans {
+    background-color: rgb(219, 152, 165);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.meat{
+    background-color: rgb(163, 169, 221);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.fruits{
+    background-color: darkgrey;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.seafood{
+    background-color: rgb(178, 223, 224);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.dairy{
+    background-color: rgb(204, 149, 199);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
